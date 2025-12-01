@@ -1,4 +1,4 @@
-FROM php:8.4-fpm
+FROM php:8.2-fpm
 
 ENV PROJECT_ROOT /var/www
 WORKDIR $PROJECT_ROOT
